@@ -7,7 +7,7 @@ This package was created using the [`anyflights`](https://github.com/simonpcouch
 
 ------------------------------------------------------------------------
 
-To install the current stable version of `nycflights22`, make sure to
+To install the current stable version of `nycflights23`, make sure to
 install `remotes` first. The `pkgdown` website for this version is at
 [moderndive.github.io/nycflights23](https://moderndive.github.io/nycflights23).
 
