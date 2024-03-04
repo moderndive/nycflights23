@@ -19,7 +19,7 @@ U = unknown. N = no dst.}
 }
 }
 \source{
-\url{https://openflights.org/data.html}
+\url{https://openflights.org/}
 }
 \description{
 Useful metadata about airports.

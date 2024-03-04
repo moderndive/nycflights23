@@ -17,7 +17,7 @@ A data frame with columns:
 }
 \source{
 FAA Aircraft registry,
-\url{https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/}
+\url{https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download}
 }
 \description{
 Plane metadata for all plane tail numbers found in the FAA aircraft registry.
