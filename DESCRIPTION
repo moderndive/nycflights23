@@ -9,10 +9,7 @@ Authors@R: c(
     person("Jay", "Lee", , "jaylee@reed.edu", role = "ctb"),
     person("Dennis", "Irorere", , "denironyx@gmail.com", role = "ctb")
   )
-Description: A data-only package updating the now 10-year-old 'nycflights13' 
-    package. It contains information about all flights that departed from the
-    three main New York City airports in 2023: 435,352 flights in total. 
-    It also includes useful metadata on airlines, airports, weather, and planes.
+Description: Updating the now 10-year-old 'nycflights13' data package. It contains information about all flights that departed from the three main New York City airports in 2023 and metadata on airlines, airports, weather, and planes.
 License: CC0
 URL: https://moderndive.github.io/nycflights23/, https://github.com/moderndive/nycflights23/
 BugReports: https://github.com/moderndive/nycflights23/issues/
