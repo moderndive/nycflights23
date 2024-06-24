@@ -16,7 +16,7 @@ install `remotes` first. The `pkgdown` website for this version is at
 remotes::install_github("moderndive/nycflights23")
 ```
 
-When available on CRAN, the package will be available via
+The package is also available on CRAN via
 
 ```r
 install.packages("nycflights23")
