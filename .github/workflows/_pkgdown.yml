@@ -1,0 +1,18 @@
+# URL of the pkgdown site
+url: https://moderndive.github.io/nycflights23/
+
+template:
+  bootstrap: 5
+
+development:
+  mode: auto
+
+reference:
+- title: Datasets
+  contents:
+  - '`airlines`'
+  - '`airports`'
+  - '`flights`'
+  - '`planes`'
+  - '`weather`'
+
