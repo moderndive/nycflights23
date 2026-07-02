@@ -1,0 +1,45 @@
+# nycflights23
+
+An R data package containing all out-bound flights from NYC in 2023 +
+useful metadata
+
+This package was created using the
+[`anyflights`](https://github.com/simonpcouch/anyflights) R package. It
+is used in the updated 2nd edition of the [ModernDive
+textbook](https://moderndive.com/v2).
+
+### Installation
+
+------------------------------------------------------------------------
+
+On CRAN, the package is available via
+
+``` r
+
+install.packages("nycflights23")
+```
+
+To install the current developmental version of `nycflights23`, make
+sure to install `remotes` first.
+
+``` r
+
+# install.packages("remotes")
+remotes::install_github("moderndive/nycflights23")
+```
+
+# Package index
+
+## Datasets
+
+- [`airlines`](https://moderndive.github.io/nycflights23/reference/airlines.md)
+  : Airline names.
+- [`airports`](https://moderndive.github.io/nycflights23/reference/airports.md)
+  : Airport metadata
+- [`flights`](https://moderndive.github.io/nycflights23/reference/flights.md)
+  : Flights data
+- [`planes`](https://moderndive.github.io/nycflights23/reference/planes.md)
+  : Plane metadata.
+- [`weather`](https://moderndive.github.io/nycflights23/reference/weather.md)
+  : Hourly weather data
+
